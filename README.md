@@ -4,7 +4,7 @@
 
 ## 开发环境及工具
 
-1.IDE: Visual Studio Code 1.43.1
+1.IDE: VisualStudio (Version = 15.0.26430.16)
 2.OS:Windows_NT x64
 
 ## 1. 实现原理
