@@ -1,0 +1,7 @@
+﻿  UDP-server.cpp
+c:\users\daneiliu\documents\c++\udp-server-20200223\udp-server\udp-server\udp-server.cpp(38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\daneiliu\documents\c++\udp-server-20200223\udp-server\udp-server\udp-server.cpp(65): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+  UDP-server.vcxproj -> C:\Users\DANEILIU\Documents\C++\UDP-server-20200223\UDP-server\Debug\UDP-server.exe
+  UDP-server.vcxproj -> C:\Users\DANEILIU\Documents\C++\UDP-server-20200223\UDP-server\Debug\UDP-server.pdb (Partial PDB)
