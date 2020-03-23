@@ -1,5 +1,15 @@
 # socket-UDP（winsock）
-## 1. 功能设计
+
+## 功能设计
+
+## 开发环境及工具
+
+1.IDE: Visual Studio Code 1.43.1
+2.OS:Windows_NT x64
+
+## 1. 实现原理
+
+
 ### 1.1 服务端
   首先使用socket()函数创建套接字，创建WSAData类型变量wsadata。调用WSAStartup(MAKEWORD(2,1), &wsadata)函数启动一个进程。在进行服务端的进程前进行准备工作，包括：
 1.	指定协议类型存于sockaddr_in类型变量中
